@@ -1,4 +1,7 @@
 int main()
 {
-return 1300048;
+	int j;
+	j=1000000;
+	j+=300048;
+return j;
 }
